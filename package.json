@@ -1,6 +1,6 @@
 {
 	"name": "@guivic/metadata-module",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Easy way to use metadata to share across components (using Vuex)",
 	"main": "index.js",
 	"scripts": {
